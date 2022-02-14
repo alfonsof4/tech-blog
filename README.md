@@ -1,3 +1,3 @@
 # tech-blog
 # Description
-Still a work in progress
+not quite finished just yet
